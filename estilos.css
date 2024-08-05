@@ -37,6 +37,46 @@ float: left;
     float: left;
 
 }
+.indp1{
+    height: 1500px;
+    width:  1900px;
+    background-image: url("independecia.png");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.pauli{
+    height: 250px;
+    width: 700px;
+    background-image: url("images.png");
+    background-repeat: no-repeat;
+    float: center;
+
+}
+.conf{
+    height: 250px;
+    width: 700px;
+    background-image: url("configuracionelectronica1-cke.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.interno{
+    height: 1200px;
+    width: 1200px;
+    background-image: url("Sis.\ int.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.externo{
+    height: 300px;
+    width: 1200px;
+    background-image: url("Aparato\ genital\ externo.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
 
 
 
