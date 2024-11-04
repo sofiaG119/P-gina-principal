@@ -12,8 +12,8 @@
      
 }
 body{
-background-image: url(fondo.jpg);
-    
+background-image: url(fondo2r.jpg);
+
 
 }
 .titulo{
@@ -75,6 +75,70 @@ float: left;
     background-repeat: no-repeat;
     float: left;
 }
+.imgcon{ 
+    height: 300px;
+    width: 1200px;
+    background-image: url("concanter.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.imsum{
+    height: 300px;
+    width: 1200px;
+    background-image: url("sumaaexcel.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.prodnota{
+    height: 500px;
+    width: 1200px;
+    background-image: url("productosnotab.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.sumadif{
+    height: 550px;
+    width: 1250px;
+    background-image: url("sumapordif.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.sumaformaabac{
+    height: 700px;
+    width: 1260px;
+    background-image: url("prodformaabac.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.Binsuma{
+    height: 650px;
+    width: 1250px;
+    background-image: url("danielcarreonS.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.Binresta{
+    height: 650px;
+    width: 1250px;
+    background-image: url("danielcarreonS.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.cubo1{
+    height: 650px;
+    width: 1250px;
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.cubo2{
+    height: 650px;
+    width: 1250px;
+    background-image: url("cubo2.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
 
-   
+
+
 
