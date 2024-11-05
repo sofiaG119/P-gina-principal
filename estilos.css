@@ -138,7 +138,111 @@ float: left;
     background-repeat: no-repeat;
     float: left; 
 }
-
+.meimg{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("Imagenpersonal.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.tecex{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("gptexcel.webp");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.revoluc{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("revoluc.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.matem{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("Matep.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.quimi{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("quimi.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.biologi{
+    height: 1500px;
+    width: 1250px;
+    background-image: url("Biologi.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.facto{
+    height: 200px;
+    width: 500px;
+    background-image: url("factorizacion.jpeg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.faccomun{
+    height: 450px;
+    width: 690px;
+    background-image: url("faccomun.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.agrup{
+    height: 600px;
+    width: 1200px;
+    background-image: url("dostermin.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.difcua{
+    height: 600px;
+    width: 1200px;
+    background-image: url("difcuad.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.trinom{
+    height: 200px;
+    width: 400px;
+    background-image: url("images\ \(1\).jpeg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.forma2{
+    height: 700px;
+    width: 1300px;
+    background-image: url("forma2.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.t{
+    height: 600px;
+    width: 1300px;
+    background-image: url("maxresdefault15.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.sumdcub{
+    height: 400px;
+    width: 1300px;
+    background-image: url("sumadcub.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.difdcub{
+    height: 400px;
+    width: 1300px;
+    background-image: url("difdcubos.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
 
 
 
