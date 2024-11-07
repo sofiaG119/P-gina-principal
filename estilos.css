@@ -243,6 +243,12 @@ float: left;
     background-repeat: no-repeat;
     float: left; 
 }
-
+.mapaconceptual{
+    height: 800px;
+    width: 1300px;
+    background-image: url("Purple\ and\ Green\ Minimalist\ Color\ Blocks\ Concept\ Map\ Chart.png");
+    background-repeat: no-repeat;
+    float: right; 
+}
 
 
