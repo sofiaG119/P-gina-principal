@@ -250,5 +250,38 @@ float: left;
     background-repeat: no-repeat;
     float: right; 
 }
-
-
+.ionico{
+    height: 200px;
+    width: 700px;
+    background-image: url("ionico.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.covalente{
+    height: 300px;
+    width: 700px;
+    background-image: url("Covalente.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.metalico{
+    height: 300px;
+    width: 700px;
+    background-image: url("metalico.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.hidrogeno{
+    height: 300px;
+    width: 700px;
+    background-image: url("hidrogeno.jpeg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.mapamental{
+    height: 1200px;
+    width: 2000px;
+    background-image: url("Green\ and\ Blue\ Playful\ Illustrative\ Mind\ Map.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
