@@ -285,3 +285,35 @@ float: left;
     background-repeat: no-repeat;
     float: left; 
 }
+.ovulo{
+    height: 300px;
+    width: 400px;
+    background-image: url("ovulo.webp");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.embrion{
+    height: 200px;
+    width: 400px;
+    background-image: url("embrion.jpeg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.trimestres{
+    height: 300px;
+    width: 500px;
+    background-image: url("trimestres.jpg");
+    background-repeat: no-repeat;
+    float: left; 
+}
+.parto{
+    height: 900px;
+    width: 2500px;
+    background-image: url("parto.png");
+    background-repeat: no-repeat;
+    float: left; 
+}
+
+
+
+
